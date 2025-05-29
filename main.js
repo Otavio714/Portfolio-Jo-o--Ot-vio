@@ -70,7 +70,7 @@ const translations = {
     aboutDesc: "Sou um desenvolvedor web apaixonado com um toque criativo, transformando visões em realidade. Com sólida experiência em HTML, CSS, JavaScript e Python, crio soluções inovadoras, eficientes e elegantes. Focado na experiência do usuário, construo interfaces responsivas, acessíveis e bem estruturadas. Comprometido com a qualidade e melhoria contínua, sempre busco superar expectativas. Vamos criar algo incrível juntos!",
     aboutBtn: "Fale Comigo",
     serviceH2: "Meus Melhores Serviços",
-    serviceTitles: ["Design de Websites", "Soluções para E-commerce", "ChatBot", "Manutenção", "SEO", "Practicality"],
+    serviceTitles: ["Design de Websites", "Soluções para E-commerce", "ChatBot", "Manutenção", "SEO", "Praticidade"],
     serviceDesc: [
       "Criamos interfaces amigáveis que envolvem visitantes e ajudam você a alcançar seus objetivos online com o mínimo de esforço.",
       "Construímos lojas online seguras, escaláveis e centradas no usuário que melhoram a experiência de compra e aumentam as conversões.",
@@ -97,7 +97,7 @@ const translations = {
     aboutDesc: "I'm a passionate web developer with a creative touch, turning visions into reality. With solid experience in HTML, CSS, JavaScript, and Python, I craft innovative, efficient, and elegant solutions. Focused on user experience, I build responsive, accessible, and well-structured interfaces. Committed to quality and continuous improvement, I always aim to exceed expectations. Let's create something amazing together!",
     aboutBtn: "Talk to Me",
     serviceH2: "My Best Services",
-    serviceTitles: ["Website Design", "E-commerce Solutions", "ChatBot", "Support", "SEO", "Praticidade"],
+    serviceTitles: ["Website Design", "E-commerce Solutions", "ChatBot", "Support", "SEO", "Practicality"],
     serviceDesc: [
       "We craft user-friendly interfaces that engage visitors and help you achieve your online goals with minimum efforts.",
       "We build secure, scalable, and user-centric online stores that enhance the shopping experience and drive conversions.",
