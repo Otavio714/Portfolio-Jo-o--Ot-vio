@@ -156,11 +156,6 @@ As cores principais estão definidas em variáveis CSS:
 - Substitua as imagens na pasta `img/`
 - Atualize os links de contato no `index.html`
 
-## 📈 Estatísticas
-
-- **5+ Projetos** entregues
-- **15+ Clientes** satisfeitos  
-- **20+ Feedbacks** positivos
 
 ## 🔧 Manutenção
 
